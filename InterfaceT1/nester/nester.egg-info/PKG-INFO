@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: nester
+Version: 1.0.0
+Summary: 对列表嵌套列表迭代的处理
+Home-page: https://github.com/hongbo31/HeadFirstPython
+Author: Hongbo
+Author-email: 315594984@qq.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Languages ::Python ::3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
